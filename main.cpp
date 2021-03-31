@@ -2,7 +2,7 @@
  * Created by Bryson Armstrong
  */
 #include <iostream>
-#include "RomanNumeralConverter.cpp"
+#include "RomanNumeralConverter.h"
 using namespace std;
 
 void decimalToRomanMenu() {
